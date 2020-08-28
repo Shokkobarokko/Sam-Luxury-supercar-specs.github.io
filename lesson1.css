@@ -1,0 +1,20 @@
+img {
+	width: 150px;
+}
+div {
+	display: inline-block;
+	background-color: aliceblue;
+	margin: 5px;
+	border: 4px black solid;
+	width: 25%;
+	padding: 5px 10px;
+	height: 325px;
+	vertical-align: top;
+
+}
+h2 {
+	font-size: 20px;
+}
+body {
+	text-align: center;
+}
